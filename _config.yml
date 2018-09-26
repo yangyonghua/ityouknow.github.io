@@ -19,9 +19,6 @@ repository: yangyonghua/yangyonghua.github.io
 github_url: https://github.com/yangyonghua
 url: https://yangyonghua.github.io
 
-cnblog_url: http://www.cnblogs.com/ityouknow
-
-enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
